@@ -25,10 +25,6 @@ Welcome to my GitHub! I'm a passionate software developer specializing in web de
 - [**Ride-Hailing App**](#)  
   A mobile app similar to Uber, developed for the Ghana market to facilitate ride-sharing.  
 
-## 📊 GitHub Stats
-![Sara's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sarakamalelsadek&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sarakamalelsadek&layout=compact&theme=radical)  
-
 ## 📫 How to Reach Me
 - Email: sara.kamal.elsadek@gmail.com  
 - LinkedIn: [https://www.linkedin.com/in/sara-kamal-273b66194/](#)  
